@@ -2,7 +2,7 @@
 O objetivo do projeto de Data Engineering é coletar e organizar dados. Isso mesmo, você precisa ser capaz de acessar fontes distintas de dados, coletar essas informações e armazenar em um local de fácil acesso e que seja escalável.
 
 ##  Os Dados do desafio
-Os dados para serem coletados e armazenados, estão disponíveis neste site. http://books.toscrape.com/trabalho .  O trabalho será  será coletar e armazenar os seguintes dados:
+Os dados para serem coletados e armazenados, estão disponíveis neste site. http://books.toscrape.com/. O trabalho será  será coletar e armazenar os seguintes dados:
 1.  O nome do livro.
 2.  A categoria do livro.
 3.  O número de estrelas que o livro recebeu.
